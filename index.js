@@ -8,9 +8,10 @@ function countDown (a)
 }
 let b=[];
 let c="";
+let d=[];
 function writeCards(b,c)
 {
   for (let i=0; i<b.length; i++)
-  {console.log("Thank you, "+b[i]+", for the wonderful "+c+" gift!")
+  {d[i]="Thank you, "+b[i]+", for the wonderful "+c+" gift!"
 }
 }
