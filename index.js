@@ -6,3 +6,4 @@ function countDown (a)
   console.log(a);
   a--;}
 }
+function writeCards()
