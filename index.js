@@ -14,4 +14,5 @@ function writeCards(b,c)
   for (let i=0; i<b.length; i++)
   {d[i]="Thank you, "+b[i]+", for the wonderful "+c+" gift!"
 }
+return d;
 }
